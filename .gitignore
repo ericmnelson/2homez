@@ -1,0 +1,9 @@
+*.pdf
+*.h5
+*.tar
+*.zip
+*.swp
+*.pyc
+.ipynb_checkpoints
+zip_code_data
+airbnb_data
