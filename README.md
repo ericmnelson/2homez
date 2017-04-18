@@ -17,5 +17,5 @@ Note most of these can be installed by saying pip install [package name]
 * [seaborn - Advanced Plotting library](https://seaborn.pydata.org)
 * [basemaps](http://matplotlib.org/basemap/index.html)
 * [shapefile](https://pypi.python.org/pypi/pyshp)
-* [progressbar](https://pypi.python.org/pypi/progressbar2/3.16.0)
+* [progressbar2](https://pypi.python.org/pypi/progressbar2/3.16.0)
 * [geopy](https://pypi.python.org/pypi/geopy/1.11.0)
